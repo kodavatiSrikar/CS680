@@ -1,0 +1,7 @@
+Testcase: edu.umb.cs680.hw04.FIFOFileCacheTest
+Test: checkIsFull() took 8 milli sec(s)
+Test: checkReplace() took 1 milli sec(s)
+Test: checkcached() took 0 milli sec(s)
+Test: fetchwithp1() took 0 milli sec(s)
+Test: fetchwithp2() took 1 milli sec(s)
+Tests run: 5, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 25 milli sec(s)

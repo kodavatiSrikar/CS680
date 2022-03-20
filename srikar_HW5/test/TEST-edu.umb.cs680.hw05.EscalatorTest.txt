@@ -1,0 +1,18 @@
+Testcase: edu.umb.cs680.hw05.EscalatorTest
+Test: startButtonStanByTest() took 10 milli sec(s)
+Test: motionDetectedStanByTest() took 0 milli sec(s)
+Test: stopButtonStanByTest() took 1 milli sec(s)
+Test: startButtonStoppedTest() took 1 milli sec(s)
+Test: stopButtonOperatingTest() took 0 milli sec(s)
+Test: motionNotDetectedOperatingTest() took 0 milli sec(s)
+Test: ChangeStateTest() took 1 milli sec(s)
+Tests run: 7, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 22 milli sec(s)
+------------- Standard Output ---------------
+Escalator StartingMove Steps
+Escalator StartingMove Steps
+Escalator stoppedDisable Sensor
+Escalator StandByEnable Sensor
+Escalator stoppedStop steps
+Disable Sensor
+Escalator standbyStop steps
+------------- ---------------- ---------------

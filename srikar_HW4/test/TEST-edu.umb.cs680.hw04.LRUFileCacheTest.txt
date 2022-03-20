@@ -1,0 +1,7 @@
+Testcase: edu.umb.cs680.hw04.LRUFileCacheTest
+Test: checkIsFull() took 0 milli sec(s)
+Test: checkReplace() took 0 milli sec(s)
+Test: checkcached() took 0 milli sec(s)
+Test: fetchwithp1() took 1 milli sec(s)
+Test: fetchwithp2() took 0 milli sec(s)
+Tests run: 5, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 4 milli sec(s)
